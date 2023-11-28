@@ -1,0 +1,31 @@
+.btn1{
+   margin-top: 30px;
+  background-color: rgb(24, 24, 150);
+  font-weight: 700;
+
+  color: white;
+}
+.btn2{
+  color: white;
+  margin-left:20px;
+  background-color:rgb(24, 24, 150);
+  font-weight: 700;
+}
+.container{
+  margin-top: 80px;
+  background-color:rgba(106, 106, 128, 0.497);
+}
+#demo2 {
+  background-color:rgb(92, 132, 13)
+  ;
+
+}
+#demo2 a{
+  color: white;
+}
+
+#root{
+ 
+  background-color:rgba(115, 123, 98, 0.549);
+  height: 923px;
+}
